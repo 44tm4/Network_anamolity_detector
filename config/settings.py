@@ -1,7 +1,7 @@
 # config/settings.py
 
 # Network interface to sniff on (example: "eth0", "Wi-Fi", "lo", etc.)
-INTERFACE = "wlp5s0"
+INTERFACE = "eth0"
 
 # Number of packets to sniff before training
 PACKET_COUNT = 500
